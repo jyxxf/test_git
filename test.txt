@@ -1,5 +1,4 @@
 feature-a
 feature-b
 feature-c
-feature-e
-feature-f
+feature-d
