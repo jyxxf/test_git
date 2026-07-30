@@ -1,4 +1,0 @@
-feature-a
-feature-b
-feature-d
-feature-e
