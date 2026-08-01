@@ -1,3 +1,3 @@
-feature-c
-feature-a
+feature-e
 feature-b
+feature-c
